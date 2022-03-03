@@ -1,5 +1,5 @@
 .lead__with-indication {
-    margin-top: 8px;
+    margin-top: 6px;
     margin-bottom: 0;
     font-size: 10px;
     font-weight: 400;
@@ -8,14 +8,14 @@
     letter-spacing: 0.15em;    
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1023px){
     .lead__with-indication {        
-        margin: 8px auto 0;
+        margin: 6px auto 0;
         max-width: calc(100% - (24px * 2));
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 767px){
     .lead__with-indication {        
         margin: 8px auto 0;
         max-width: calc(100% - (16px * 2));

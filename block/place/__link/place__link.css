@@ -7,8 +7,6 @@
     color: white;
 }
 
-
-
 @media screen and (max-width: 320px){
     .place__link{
         margin: 0 16px;

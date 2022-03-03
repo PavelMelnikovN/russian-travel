@@ -10,21 +10,13 @@
     margin: 0;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1023px){
     .footer__links{
         gap: 19px;
     }    
 }
 
-/* 
-@media screen and (max-width: 450px){
-    .footer__links{
-        font-size: 24px;
-        line-height: 24px;
-    }    
-}
-*/
-@media screen and (max-width: 320px){
+@media screen and (max-width: 767px){
     .footer__links{
         font-size: 24px;
         line-height: 24px;

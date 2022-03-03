@@ -10,28 +10,7 @@
     color: white;
     margin: 0 auto 32px;    
 }
-/* 
-@media screen and (max-width: 1024px){
-    .cover__title{
-        font-size: 72px;
-        line-height: 76px;
-    }
-}
 
-@media screen and (max-width: 768px){
-    .cover__title{
-        font-size: 72px;
-        line-height: 76px;
-    }
-}
-
-@media screen and (max-width: 450px){
-    .cover__title{
-        font-size: 56px;
-        line-height: 60px;
-    }
-}
-*/
 @media screen and (max-width: 320px){
     .cover__title{
         padding: 33px 16px 0;

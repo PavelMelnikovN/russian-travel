@@ -1,0 +1,17 @@
+.place__website {
+    align-self: flex-end;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 12px;
+    
+}
+
+@media screen and (max-width: 320px){
+    .place__website{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        gap: 12px;
+    }    
+} 

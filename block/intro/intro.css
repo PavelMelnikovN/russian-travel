@@ -12,10 +12,9 @@
     }
 }
 
-
 @media screen and (max-width: 1023px){
     .intro{
-        margin: 88px auto; 
+        margin: 88px auto;
         max-width: calc(100% - (24px * 2));
     }
 }

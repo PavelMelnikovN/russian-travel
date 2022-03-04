@@ -23,9 +23,9 @@
     .place{
         margin: 0 auto 50px;
         grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-        row-gap: 32px;        
+        row-gap: 32px;
     }
     .place:last-child {
         margin: 0 auto;
-    }    
-} 
+    }
+}

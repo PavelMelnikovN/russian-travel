@@ -3,30 +3,28 @@
     max-width: calc(100% - (48px * 2));
     position: relative;
     cursor: pointer;
-    
-    
-}  
- 
+}
+
 @media screen and (max-width: 1279px){
     .cover{
-        max-width: 100%;  
+        max-width: 100%;
     }
 }
 
 @media screen and (max-width: 1023px){
-    .cover{      
-        margin: 0 auto 89px; 
+    .cover{
+        margin: 0 auto 89px;
     }
 }
 
 @media screen and (max-width: 767px){
     .cover{
-       margin: 0 auto 64px; 
+       margin: 0 auto 64px;
     }
-} 
+}
 
 @media screen and (max-width: 560px){
     .cover{
-        margin: 0 auto 64px; 
+        margin: 0 auto 64px;
     }
 }

@@ -8,13 +8,13 @@
     z-index: 1;
     position: relative;
     color: white;
-    margin: 0 auto 32px;    
+    margin: 0 auto 32px;
 }
 
 @media screen and (max-width: 767px){
     .cover__title{
         margin: 0 auto 24px;
-        max-width: 424px;        
+        max-width: 424px;
         font-size: 55px;
         line-height: 58px;
     }
@@ -23,7 +23,7 @@
 @media screen and (max-width: 560px){
     .cover__title{
         margin: 0 auto 16px;
-        max-width: 288px;      
+        max-width: 288px;
         font-size: 32px;
         line-height: 35px;
     }

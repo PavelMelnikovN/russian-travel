@@ -6,11 +6,11 @@
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
-    line-height: 12px;    
+    line-height: 12px;
 }
 
 @media screen and (max-width: 767px){
-    .place__website{        
+    .place__website{
         gap: 12px;
-    }    
-} 
+    }
+}

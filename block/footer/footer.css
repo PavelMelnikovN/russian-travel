@@ -3,14 +3,14 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;    
+    align-items: center;
     max-height: 18px;
     padding-bottom: 24px;
     max-width: calc(100% - (48px * 2));
 }
 
 @media screen and (max-width: 1023px){
-    .footer{        
+    .footer{
         max-width: calc(100% - (24px * 2));
     }
 }
@@ -21,7 +21,7 @@
         justify-content: flex-start;
         align-items: flex-start;
         background-color: #2A2C2F;
-        row-gap: 32px;        
+        row-gap: 32px;
         max-height: 310px;
         padding-bottom: 48px;
         max-width: calc(100% - (16px * 2));

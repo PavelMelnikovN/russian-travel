@@ -5,18 +5,18 @@
     font-weight: 400;
     line-height: 14px;
     text-transform: uppercase;
-    letter-spacing: 0.15em;    
+    letter-spacing: 0.15em;
 }
 
 @media screen and (max-width: 1023px){
-    .lead__with-indication {        
+    .lead__with-indication {
         margin: 6px auto 0;
         max-width: calc(100% - (24px * 2));
     }
 }
 
 @media screen and (max-width: 767px){
-    .lead__with-indication {        
+    .lead__with-indication {
         margin: 8px auto 0;
         max-width: calc(100% - (16px * 2));
     }

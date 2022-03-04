@@ -1,11 +1,12 @@
 .header__lang-link {
     font-size: 24px;
+    line-height: 28px;
     font-weight: 400;
     color: white;
     text-decoration: none;
 }
  
-@media screen and (max-width: 320px){
+@media screen and (max-width: 767px){
     .header__lang-link{
         font-size: 18px;
         list-style: 20px;      

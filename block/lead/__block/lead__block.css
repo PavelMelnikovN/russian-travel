@@ -6,8 +6,7 @@
 }
  
 @media screen and (max-width: 1279px){
-    .lead__block{
-        max-width: 100%;
+    .lead__block{       
         margin: 56px auto 0;        
     }
 }

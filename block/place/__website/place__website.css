@@ -1,4 +1,7 @@
 .place__website {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
     align-self: flex-end;
     font-style: normal;
     font-weight: normal;
@@ -6,11 +9,8 @@
     line-height: 12px;    
 }
 
-@media screen and (max-width: 320px){
-    .place__website{
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-end;
+@media screen and (max-width: 767px){
+    .place__website{        
         gap: 12px;
     }    
 } 

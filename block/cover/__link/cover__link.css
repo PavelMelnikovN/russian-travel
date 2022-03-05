@@ -12,6 +12,7 @@
     position: relative;
     padding-top: 245px;
     padding-bottom: 245px;
+    text-decoration: none;
 }
 
 .cover__link::before {

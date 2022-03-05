@@ -1,6 +1,6 @@
 .cover{
     margin: 0 auto 92px;
-    max-width: calc(100% - (48px * 2));
+    max-width: 100%;
     position: relative;
     cursor: pointer;
 }
@@ -20,11 +20,5 @@
 @media screen and (max-width: 767px){
     .cover{
        margin: 0 auto 64px;
-    }
-}
-
-@media screen and (max-width: 560px){
-    .cover{
-        margin: 0 auto 64px;
     }
 }

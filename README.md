@@ -17,7 +17,7 @@
 При помощи @media (медиазапросов) достигнута цель по адаптированию данного макета для 4 разрешений экранов
 1280px, 1024px, 768px, 320px и для плавного изменния вида макета при изменении размера экрана.
 
-[Ссылка а проект на gh-pages] (https://pavelmelnikovn.github.io/russian-travel/)
+[Ссылка а проект на gh-pages]  (https://pavelmelnikovn.github.io/russian-travel/)
 
 
 
